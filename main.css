@@ -1,0 +1,65 @@
+
+* {
+  font-family: Roboto;
+}
+
+body {
+  padding-top: 40px;
+  padding-left: 100px;
+  padding-bottom: 60px;
+  padding-right: 100px;
+}
+
+iframe {
+  padding-top: 30px;
+}
+
+form {
+  display: block;
+  width: 900px;
+  margin-bottom: 10px;
+}
+
+.subtext {
+  font-size: small;
+  color: #A9A9A9;
+}
+
+.js-query {
+  height: 36px;
+  width: 520px;
+  font-size: large;
+  margin-top: 12px;
+}
+
+#submit {
+  height: 42px;
+  width: 80px;
+  margin-left: -4px;
+  margin-bottom: 0px;
+  margin-top: 12px;
+  font-size: large;
+}
+
+#gmap_canvas{
+  height:500px;width:600px;
+}
+
+#mapouter{
+  overflow:hidden;height:500px;width:600px;
+}
+
+.output{
+ font-size: normal;
+ width: 600px;
+ margin-top: 10px;
+
+}
+
+.result-label, .resul-proper{
+  float: left
+}
+
+.result-label {
+  width: 150px;
+}
